@@ -22,12 +22,13 @@ Aws Service : elasticbeanstalk
 - Step 4 Upload Jar File 
 
 - Result 
-![screenshot](image/final step.png)
+
+![screenshot](image/finalstep.png)
 
 
 
 - Error case Defalut gate way error 
-![screenshot](image/gateway error.png)
+![screenshot](image/gatewayerror.png)
 
 - Error solution change port number appliacation.properties
 
