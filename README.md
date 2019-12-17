@@ -15,11 +15,13 @@ Aws Service : elasticbeanstalk
 - Step 1 Change Defalut port to 5000 Beacuse aws use this port otherwise show defalut gate way error 
 
 - Step 2 Export Jar your Spring application 
+
 ![screenshot](image/stepone.png)
 
 - Step 3 Create elasticbeanstalk Web server applicaion 
 - - Step 3.1 Select web app 
 ![screenshot](image/selectweb.png)
+
 - - Step 3.2 Choose java plug form
 
 ![screenshot](image/choosejava.png)
@@ -34,12 +36,14 @@ Aws Service : elasticbeanstalk
 
 
 - Error case Defalut gate way error 
+
 ![screenshot](image/gatewayerror.png)
 
 - Error solution change port number appliacation.properties
 
 
 - AWS console 
+
 ![screenshot](image/awsconsole.png)
 
 
