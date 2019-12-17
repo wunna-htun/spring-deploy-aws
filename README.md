@@ -32,3 +32,9 @@ Aws Service : elasticbeanstalk
 
 - Error solution change port number appliacation.properties
 
+
+- AWS console 
+![screenshot](image/awsconsole.png)
+
+
+
