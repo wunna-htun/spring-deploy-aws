@@ -18,6 +18,12 @@ Aws Service : elasticbeanstalk
 ![screenshot](image/stepone.png)
 
 - Step 3 Create elasticbeanstalk Web server applicaion 
+- - Step 3.1 Select web app 
+![screenshot](image/selectweb.png)
+- - Step 3.2 Choose java plug form
+
+![screenshot](image/choosejava.png)
+
 
 - Step 4 Upload Jar File 
 
